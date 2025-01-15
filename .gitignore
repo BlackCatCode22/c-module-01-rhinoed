@@ -14,6 +14,7 @@
 /*.pdb
 
 # Editor/IDE specific
+*/.idea
 .idea/                     # CLion's project files
 *.iml                      # CLion's module files
 *.swp                      # Temporary editor swap files
